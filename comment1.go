@@ -4,6 +4,6 @@ import (
 	"fmt"
 )
 
-func main() {
+func 		() {
 	fmt.Println("Hello, World!") // this is comment
 }
